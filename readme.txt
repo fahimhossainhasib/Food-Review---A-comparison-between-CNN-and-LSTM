@@ -1,0 +1,1 @@
+This dataset was obtained from http://snap.stanford.edu/data/web-FineFoods.html
